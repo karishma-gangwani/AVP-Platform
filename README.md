@@ -13,13 +13,6 @@ The work reflects methods used to support **cohort-scale genomic analysis**, var
 
 The American Society of Hematology (ASH) Variant Platform was conceived as a **global reference resource** for consistent interpretation of hematologic disease variants across institutions and geographies.
 
-The broader platform integrates data from major public and institutional resources, including:
-
-* cBioPortal
-* NCI Genomic Data Commons (GDC)
-* COSMIC
-* Population-scale and disease-specific genomic cohorts
-
 This repository captures **analysis components and pipelines** developed during that effort, with an emphasis on scalability, interpretability, and clinical relevance.
 
 ### Contents
@@ -54,15 +47,4 @@ This repository is intended for:
 
 This repository represents **analytical and exploratory work** from a larger platform initiative and is not a complete production system. The views and implementations here are for research and demonstration purposes only.
 
-## Short GitHub Repo Description (Sidebar)
 
-> Analysis pipelines and exploratory notebooks developed for the ASH Variant Platform, supporting cohort-scale variant interpretation in hematologic malignancies.
-
-If you want, I can:
-
-* Tighten this into a **more technical / less narrative** README
-* Rewrite it to sound **more academic** or **more product/platform-oriented**
-* Add a **“How to run”** section based on the actual notebooks in the repo
-* Tailor it for **recruiter-facing**, **open-source**, or **portfolio** positioning
-
-Just tell me the vibe you’re aiming for.
