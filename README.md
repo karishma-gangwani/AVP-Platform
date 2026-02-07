@@ -24,7 +24,7 @@ This repository includes:
 * Supporting code for data preprocessing and feature extraction
 * Prototype analyses used to evaluate differentiation approaches for variant interpretation at scale
 
-> Note: Data inputs in this repository are either synthetic, de-identified, or representative examples. This repo does not contain protected or proprietary datasets.
+> Note: Data inputs in this repository are either synthetic, de-identified, or representative examples.
 
 ### Design Principles
 
